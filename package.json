@@ -16,7 +16,7 @@
     "react-images-viewer": "^1.6.2",
     "react-photo-gallery": "^8.0.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.4",
+    "react-scripts": "5.0.1",
     "simple-react-lightbox": "^1.4.2"
   },
   "scripts": {
